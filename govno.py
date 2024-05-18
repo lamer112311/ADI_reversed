@@ -150,7 +150,7 @@ def main_search():
     from colorama import Fore
     request_count = 0
     last_request_time = 0
-    API = "7115254600:uioROz1N"
+    API = "7хуй тебеN"
     def Search(Term):
         def make_request(Term):
             data = {"token": API, "request": Term, "limit": 100, "lang": "ru"}
